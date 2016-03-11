@@ -1,0 +1,12 @@
+{
+  "name" : "blankps",
+  "version" : "0.0.1",
+  "description": "empty purescript project, fork and hack",
+  "license": "WTFPL",
+  "repository": { "type" : "git", "url" : "https://github.com/ejconlon/blankps.git" },
+  "devDependencies" : [
+    "purescript",
+    "pulp",
+    "bower"
+  ]
+}
